@@ -285,7 +285,7 @@ public class Fraction implements Comparable<Fraction> {
     }
     
     /**
-     * Returns true if the other object is a {@link Fraction} and has the same numerator and denominator
+     * Returns true if the other object is an {@link Fraction} and has the same numerator and denominator
      *
      * @param other The object to compare to this {@link Fraction}
      * @return True if the other object is a {@link Fraction} and has the same numerator and denominator
