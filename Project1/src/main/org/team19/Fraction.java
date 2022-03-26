@@ -305,7 +305,7 @@ public class Fraction implements Comparable<Fraction> {
     /**
      * Returns the hashcode for this {@link Fraction}
      *
-     * @return The hashcode for this {@link Fraction}
+     * @return the hashcode for this {@link Fraction}
      */
     @Override
     public int hashCode() {
